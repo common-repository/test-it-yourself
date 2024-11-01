@@ -1,0 +1,21 @@
+.testiy{
+	margin-top:15px;
+}
+.inputbutton {
+	background:#F4F4F4 none repeat scroll 0%;
+	border: 3px double #cccccc;
+	color: #333333;
+	padding: 4px;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 12px; 
+	margin-right:10px;
+	cursor:pointer;
+}
+
+.output, .input {
+	width: 590px;
+	height: 220px;
+	border: 1px solid #B9B9B9;
+	background-color:#EEE;
+	padding:10px;
+}
